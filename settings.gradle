@@ -1,0 +1,2 @@
+include ':jokes'
+include ':app', ':backend'

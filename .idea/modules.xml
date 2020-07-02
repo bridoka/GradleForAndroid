@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleForAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleForAndroid.iml" group="GradleForAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GradleForAndroid/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend/backend.iml" filepath="$PROJECT_DIR$/.idea/modules/backend/backend.iml" group="GradleForAndroid/backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jokes/jokes.iml" filepath="$PROJECT_DIR$/.idea/modules/jokes/jokes.iml" group="GradleForAndroid/jokes" />
+    </modules>
+  </component>
+</project>

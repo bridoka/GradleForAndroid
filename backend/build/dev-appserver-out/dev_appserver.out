@@ -1,0 +1,16 @@
+jul 22, 2020 8:52:05 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFORMAÇÕES: Overwriting system property key 'java.util.logging.config.file', value '/Users/emanuellelopez/Downloads/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/Users/emanuellelopez/AndroidStudioProjects/GradleForAndroid/backend/build/exploded-backend/WEB-INF/appengine-web.xml'
+2020-07-22 20:52:06.107:INFO::main: Logging initialized @2015ms to org.eclipse.jetty.util.log.StdErrLog
+2020-07-22 20:52:06.212:WARN:oejs.AbstractConnector:main: Ignoring deprecated socket close linger time
+2020-07-22 20:52:06.702:INFO:oejs.Server:main: jetty-9.4.27.v20200227; built: 2020-02-27T18:37:21.340Z; git: a304fd9f351f337e7c0e2a7c28878dd536149c6c; jvm 1.8.0_242-release-1644-b3-6222593
+2020-07-22 20:52:07.268:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@8519cb4{/,file:///Users/emanuellelopez/AndroidStudioProjects/GradleForAndroid/backend/build/exploded-backend/,AVAILABLE}{/Users/emanuellelopez/AndroidStudioProjects/GradleForAndroid/backend/build/exploded-backend}
+2020-07-22 20:52:07.269:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
+2020-07-22 20:52:07.270:INFO:oejs.session:main: node0 Scavenging disabled
+2020-07-22 20:52:07.278:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@2b9627bc{HTTP/1.1, (http/1.1)}{localhost:8080}
+2020-07-22 20:52:07.284:INFO:oejs.Server:main: Started @3191ms
+jul 22, 2020 11:52:07 PM com.google.appengine.tools.development.AbstractModule startup
+INFORMAÇÕES: Module instance default is running at http://localhost:8080/
+jul 22, 2020 11:52:07 PM com.google.appengine.tools.development.AbstractModule startup
+INFORMAÇÕES: The admin console is running at http://localhost:8080/_ah/admin
+jul 22, 2020 8:52:07 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+INFORMAÇÕES: Dev App Server is now running
